@@ -1,0 +1,16 @@
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\bin\Debug\net8.0-windows\testForms.exe
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\bin\Debug\net8.0-windows\testForms.deps.json
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\bin\Debug\net8.0-windows\testForms.runtimeconfig.json
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\bin\Debug\net8.0-windows\testForms.dll
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\bin\Debug\net8.0-windows\testForms.pdb
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.Form1.resources
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.AssemblyInfo.cs
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.dll
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\refint\testForms.dll
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.pdb
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\testForms.genruntimeconfig.cache
+C:\Users\moham\Desktop\Uni\3º ano\2º semestre\BD\praticas\testForms\testForms\obj\Debug\net8.0-windows\ref\testForms.dll
